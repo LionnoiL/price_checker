@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Прайс-чекер</string>
+    <string name="scan">Відскануйте товар щоб дізнатися його ціну</string>
+</resources>
