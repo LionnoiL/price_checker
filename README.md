@@ -1,6 +1,6 @@
 # Price checker
 Program for checking prices in the store.
-
+Long tap in barcode image will open the settings.
 ![main window](assets/main_form.png)
 ![options window](assets/options_form.png)
 
